@@ -1,2 +1,2 @@
 # first project using javascript
-Counter using javascript, html and css.
+Counter using Javascript, HTML and CSS.
