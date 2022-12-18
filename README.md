@@ -1,2 +1,2 @@
 # first project using javascript
-Contador simples utilizando HTML, CSS e Javascript.
+Contador utilizando HTML, CSS e Javascript.
